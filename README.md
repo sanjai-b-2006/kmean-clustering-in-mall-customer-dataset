@@ -1,11 +1,5 @@
 # Kmean-clustering-in-mall-customer-dataset
 K-means clustering algorithm to group customers of a retail store based on their purchase history.
-Certainly! Here's a sample README file for your project to find the elbow value in `mall_customer.csv` and to create a K-means clustering algorithm to group customers based on their purchase history:
-
----
-
-# Customer Segmentation using K-Means Clustering
-
 This project aims to group customers of a retail store based on their purchase history using K-Means Clustering. The project involves finding the optimal number of clusters (`k`) using the Elbow Method and then creating a K-means clustering algorithm.
 
 
